@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluvicki
+- 👋 Hi, I’m @VikiTech
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on time management
